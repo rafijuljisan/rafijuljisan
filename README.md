@@ -1,9 +1,9 @@
 <!-- Full Width Animated Cover Banner -->
 ![Developer Banner](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
 
-# 👋 Hi, I'm MD Gisan Sheikh  
+# 👋 Hi, I'm MD Jisan Sheikh  
 
-🌍 Founder of **Open Window** (Study Abroad Consultancy) & **Nixsoletech**  
+🌍 Visual Content Developer at **Open Window** (Study Abroad Consultancy) & **Nixsoletech**  
 💻 Designer | Developer | Digital Marketer | AI Enthusiast  
 🎯 Passionate about building systems, automations, and creative digital solutions  
 
@@ -20,7 +20,7 @@
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,wordpress,php,html,css,js,python,vscode,github,git,notion" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,bootstrap,cloudflare,discord,svg,visualstudio,figma,wordpress,php,html,css,js,vscode,github,git,windows" />
 </p>
 
 ---
@@ -44,11 +44,10 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.facebook.com/groups/161696391094605"><img src="https://img.shields.io/badge/Facebook_Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://chat.whatsapp.com/IhW13drYQVrCeO51fHLsW3"><img src="https://img.shields.io/badge/WhatsApp_Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://openwindowbd.com"><img src="https://img.shields.io/badge/OpenWindowBD-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://nixsoletech.com"><img src="https://img.shields.io/badge/Nixsoletech-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.facebook.com/jesan0195"><img src="https://img.shields.io/badge/Facebook_Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://chat.whatsapp.com/01957850240"><img src="https://img.shields.io/badge/WhatsApp_Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:rafijuljisan@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://jisan.technomenia.com"><img src="https://img.shields.io/badge/Portfolio Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
